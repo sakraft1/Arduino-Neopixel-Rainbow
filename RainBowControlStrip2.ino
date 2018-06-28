@@ -1,5 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 
+//This sketch uses 1 pot to control the brightness and 1 pot to control the hue of a Neopixel strip
+
 // constants won't change. They're used here to 
 // set pin numbers:
 const int ledPin = 2;     // the number of the neopixel strip
